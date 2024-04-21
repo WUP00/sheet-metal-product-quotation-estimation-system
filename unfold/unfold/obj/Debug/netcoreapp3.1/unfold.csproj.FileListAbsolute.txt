@@ -1,0 +1,27 @@
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.deps.json
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.dll
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.pdb
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.AssemblyInfo.cs
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.dll
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.pdb
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.exe
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.runtimeconfig.json
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.runtimeconfig.dev.json
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.genruntimeconfig.cache
+C:\Users\user\OneDrive\桌面\S_unfold1\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.csproj.AssemblyReference.cache
+D:\3D板金 展平\unfold(1)\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.exe
+D:\3D板金 展平\unfold(1)\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.deps.json
+D:\3D板金 展平\unfold(1)\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.runtimeconfig.json
+D:\3D板金 展平\unfold(1)\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.runtimeconfig.dev.json
+D:\3D板金 展平\unfold(1)\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.dll
+D:\3D板金 展平\unfold(1)\unfold\unfold\bin\Debug\netcoreapp3.1\unfold.pdb
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.csproj.AssemblyReference.cache
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.GeneratedMSBuildEditorConfig.editorconfig
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.AssemblyInfoInputs.cache
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.AssemblyInfo.cs
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.csproj.CoreCompileInputs.cache
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.dll
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.pdb
+D:\3D板金 展平\unfold(1)\unfold\unfold\obj\Debug\netcoreapp3.1\unfold.genruntimeconfig.cache
