@@ -1,0 +1,25 @@
+C:\Users\user\Desktop\專題\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.exe
+C:\Users\user\Desktop\專題\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.deps.json
+C:\Users\user\Desktop\專題\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.runtimeconfig.json
+C:\Users\user\Desktop\專題\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.runtimeconfig.dev.json
+C:\Users\user\Desktop\專題\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.dll
+C:\Users\user\Desktop\專題\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.pdb
+C:\Users\user\Desktop\專題\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\專題\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\專題\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.AssemblyInfo.cs
+C:\Users\user\Desktop\專題\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\專題\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.dll
+C:\Users\user\Desktop\專題\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.pdb
+C:\Users\user\Desktop\專題\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.genruntimeconfig.cache
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.exe
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.deps.json
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.runtimeconfig.json
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.runtimeconfig.dev.json
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.dll
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\bin\Debug\netcoreapp3.1\Evaluation2-CS.pdb
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.AssemblyInfoInputs.cache
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.AssemblyInfo.cs
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.csproj.CoreCompileInputs.cache
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.dll
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.pdb
+D:\3D板金 分割\Evaluation2-CS\Evaluation2-CS\obj\Debug\netcoreapp3.1\Evaluation2-CS.genruntimeconfig.cache
